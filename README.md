@@ -1,5 +1,5 @@
 # oVZManager
-Webinterface / API for manage vserver on proxmox master.
+Webinterface / API to manage vserver on proxmox masters.
 
-In this time the software is alpha.
-For migrate oVZManager 2 to the oVZManager 3 please contact oure support.
+Currently this software is alpha.
+To migrate from oVZManager 2 to the oVZManager 3 please contact our support.
